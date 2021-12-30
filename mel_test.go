@@ -1,4 +1,4 @@
-package mel__test
+package modtest
 
 import (
 	"fmt"
