@@ -1,10 +1,10 @@
-package main
+package mel__test
 
 import (
 	"fmt"
 )
 
-func main() {
+func pHi() {
 
 	fmt.Print("hi")
 }
