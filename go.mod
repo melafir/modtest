@@ -1,3 +1,3 @@
-module mel__test
+module modtest
 
 go 1.17
